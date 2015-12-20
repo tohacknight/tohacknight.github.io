@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2015-12-18
+title: title here
+img: turin.jpg
+name: Torino
+abstract: hi there!
+---
+
+the real content of the page
