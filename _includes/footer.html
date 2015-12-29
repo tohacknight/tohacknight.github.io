@@ -22,8 +22,12 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <h3>{{ site.footer.partners }}</h3>
+                        <ul class="list-inline">
+                            {% for partner in site.partners %}
+                                 <li {% if partner.bgcolor %}style="background-color: #{{ partner.bgcolor }}"{% endif %}><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></li>
+                            {% endfor %}
+                        </ul>
                     </div>
                 </div>
             </div>

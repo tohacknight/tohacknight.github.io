@@ -26,9 +26,9 @@ color:
 
 # Footer settings
 footer:
-  location: Dove siamo
+  location: ''
   social: Dove puoi trovarci
-  credits: Partners
+  partners: Partners
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -37,9 +37,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Toolbox Office Lab & Coworking
-  - line: Via Agostino da Montefeltro, 2
-  - line: Torino
+   - line: ''
 
-# Credits content
-credits: ''
+partners:
+  - name: Toolbox Office Lab & Coworking
+    url: http://toolboxoffice.it
+    img: http://www.toolboxoffice.it/img/logo_home.png
+    bgcolor: fff
