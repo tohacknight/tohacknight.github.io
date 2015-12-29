@@ -37,6 +37,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Toolbox Office Lab & Coworking
+  - line: Via Agostino da Montefeltro, 2
   - line: Torino
 
 # Credits content
