@@ -1,17 +1,18 @@
 ---
 layout: post
 date: 2015-12-29
-title: Prima Hacknight Arduino e Go
+title: "Prima hacknight: Arduino e Go"
 img: turin.jpg
-name: Prima Hacknight Arduino e Go
+name: "Prima hacknight: Arduino e Go"
 abstract: Toolbox Coworking 21/01/2016 h. 18.30
 ---
 
 <div class="row">
     <div class="col-lg-12">
-        <p>Inauguriamo la prima Hacknight a Torino con una serata a base Arduino e Go.</p>
-        <p>Lavoreremo infatti su <a target="_blank" href="https://github.com/arduino/arduino-builder">arduino-builder</a>, un compilatore di sketch arduino.</p>
+        <p>Inauguriamo la prima hacknight a Torino con una serata a base Arduino e Go.
+        <p>Il tema della serata è <a target="_blank" href="https://github.com/arduino/arduino-builder">arduino-builder</a>, un compilatore di sketch arduino. Contribuiremo seguiti ed indirizzati da alcuni degli sviluppatori del progetto.</p>
         <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-torino-hacknight-20142558936">registrazione</a>.</p>
+        <p>Vi aspettiamo quindi giovedì 21 gennaio 2016 alle 18.30 presso Toolbox.</p>
     </div>
 </div>
 
@@ -23,12 +24,12 @@ abstract: Toolbox Coworking 21/01/2016 h. 18.30
 
         <h4>Cosa devo portare?</h4>
         <p>Il tuo computer e voglia di fare. Alla cena pensiamo noi!</p>
-
     </div>
 </div>
 
 <div class="row">
     <div class="col-lg-12">
+        <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
         <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
     </div>
