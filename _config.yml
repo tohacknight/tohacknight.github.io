@@ -1,5 +1,6 @@
 # Site settings
 title: torino.hacknight.it
+subtitle: "il modo pi&ugrave; facile per iniziare a sviluppare software libero"
 email: riccardo@menodizero.it
 description: "torino.hacknight.it: hacking free software sotto la mole"
 baseurl: ""
