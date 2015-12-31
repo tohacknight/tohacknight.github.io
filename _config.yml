@@ -34,6 +34,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/tohacknight
+  - title: github
+    url: http://github.com/tohacknight
 
 # Postal address (add as many lines as necessary)
 address:
