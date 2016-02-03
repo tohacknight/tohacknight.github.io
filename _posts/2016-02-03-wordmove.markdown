@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2016-02-03
+title: "Seconda hacknight: wordmove"
+img: turin.jpg
+name: "Seconda hacknight: wordmove"
+abstract: Toolbox Coworking 23/02/2016 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>Proseguiamo la serie di hacknight a Torino con una serata a base Ruby e Wordpress.
+        <p>Il tema della serata è <a target="_blank" href="https://github.com/welaika/wordmove">wordmove</a>, un tool per la gestione e lo spostamento di installazioni di Wordpress scritto in Ruby. .</p>
+        <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-torino-hacknight-wordmove-21217826089">registrazione</a>.</p>
+        <p>Vi aspettiamo quindi martedì 23 febbraio 2016 alle 18.30 presso Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare. La cena la offre <a target="_blank" href="http://dev.welaika.com">weLaika</a>!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        <p><a href="http://dev.welaika.com" target="_blank"><img src="https://avatars3.githubusercontent.com/u/278653?v=3&s=100" alt="weLaika"></a></p>
+    </div>
+</div>
