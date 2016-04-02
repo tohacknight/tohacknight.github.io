@@ -1,0 +1,37 @@
+---
+layout: post
+date: 2016-04-02
+title: "Quarta hacknight: open data"
+img: turin.jpg
+name: "Quarta hacknight: open data"
+abstract: Toolbox Coworking 26/04/2016 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>Proseguiamo la serie di hacknight a Torino con una serata incentrata sugli open data. </p>
+        <p>Scopriremo il mondo degli open data ed in particolare il progetto <a href="https://github.com/synapta/public-contracts" target="_blank">public-contracts</a>, ci sporcheremo le mani recuperando e maneggiando open data.</p>
+        <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-torino-hacknight-open-data-24096344816">registrazione</a>.</p>
+        <p>Vi aspettiamo quindi martedì 26 aprile 2016 alle 18.30 presso Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare. La cena la offre <a target="_blank" href="http://synapta.it">synapta</a>!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        <p><a href="http://synapta.it" target="_blank"><img src="http://menodizero.it/static/synapta-logo.png" alt="synapta"></a></p>
+    </div>
+</div>
