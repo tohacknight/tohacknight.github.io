@@ -1,0 +1,36 @@
+---
+layout: post
+date: 2016-05-10
+title: "Quinta hacknight: flowtime.js"
+img: turin.jpg
+name: "Quinta hacknight: flowtime.js"
+abstract: Toolbox Coworking 24/05/2016 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>Proseguiamo la serie di hacknight a Torino con una serata dedicata ai frontend developers. </p>
+        <p>Scopriremo il progetto <a href="https://github.com/marcolago/flowtime.js" target="_blank">flowtime.js</a>, che sarà presentato dal suo maintainer Marco Lago.</p>
+        <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-torino-hacknight-flowtimejs-25353801904">registrazione</a>.</p>
+        <p>Vi aspettiamo quindi martedì 24 maggio 2016 alle 18.30 presso Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare. La cena la offriamo noi!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+    </div>
+</div>
