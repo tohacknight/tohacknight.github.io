@@ -23,7 +23,7 @@ abstract: Toolbox Coworking 24/05/2016 h. 18.30
         <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
 
         <h4>Cosa devo portare?</h4>
-        <p>Il tuo computer e voglia di fare. La cena la offriamo noi!</p>
+        <p>Il tuo computer e voglia di fare. <a href="http://hub09.it" target="_blank">Hub09</a> offre la cena!</p>
     </div>
 </div>
 
@@ -32,5 +32,6 @@ abstract: Toolbox Coworking 24/05/2016 h. 18.30
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
         <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        <p><a href="http://hub09.it" target="_blank"><img src="http://staging.hub09.it/wp-content/uploads/2015/01/hub09-dark1.png" alt="Hub09"></a></p>
     </div>
 </div>
