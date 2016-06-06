@@ -22,7 +22,7 @@ abstract: Toolbox Coworking 15/06/2016 h. 18.30
         <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
 
         <h4>Cosa devo portare?</h4>
-        <p>Il tuo computer e voglia di fare.</p>
+        <p>Il tuo computer e voglia di fare. <a href="http://trampolineup.com">Trampoline</a> offre la pizza!</p>
     </div>
 </div>
 
@@ -31,5 +31,6 @@ abstract: Toolbox Coworking 15/06/2016 h. 18.30
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
         <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        <p><a href="http://trampolineup.com" target="_blank"><img width="200px" src="http://i.imgur.com/7qftAxD.png" alt="Trampoline"></a></p>
     </div>
 </div>
