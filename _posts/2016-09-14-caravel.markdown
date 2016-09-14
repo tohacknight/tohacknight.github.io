@@ -1,0 +1,36 @@
+---
+layout: post
+date: 2016-06-14
+title: "Settima hacknight: caravel"
+img: turin.jpg
+name: "Settima hacknight: caravel"
+abstract: Toolbox Coworking 27/09/2016 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>Cominciamo una nuova stagione di Hacknight a Torino con una serata dedicata a <a href="http://airbnb.io/caravel">Caravel</a>. Caravel è una applicazione sviluppata da Airbnb per l'esplorazione di dati small o big in modo intuitivo ed interattivo.</p>
+        <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-hacknight-caravel-27714670325">registrazione</a>.</p>
+        <p>Vi aspettiamo quindi martedì 27 settembre 2016 alle 18.30 presso Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare. <a href="http://cloudschooling.it">Maieutical Labs</a> offre la pizza!</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        <p><a href="http://cloudschooling.it" target="_blank"><img width="200px" src="https://cdn.evbuc.com/eventlogos/30850503/maieuticallabs300px.png" alt="Maieutical Labs / Cloudschooling.it"></a></p>
+    </div>
+</div>
