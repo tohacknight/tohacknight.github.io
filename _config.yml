@@ -45,7 +45,7 @@ address:
    - line: ''
 
 partners:
-  - name: Toolbox Office Lab & Coworking
+  - name: Toolbox
     url: http://toolboxoffice.it
-    img: http://www.toolboxoffice.it/img/logo_home.png
+    img: http://www.toolboxoffice.it/wp-content/uploads/toolbox-coworking-logo-scritta-piccolo.png
     bgcolor: fff

@@ -31,7 +31,9 @@ abstract: Toolbox Coworking 23/02/2016 h. 18.30
     <div class="col-lg-12">
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
-        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
         <p><a href="http://dev.welaika.com" target="_blank"><img src="https://avatars3.githubusercontent.com/u/278653?v=3&s=100" alt="weLaika"></a></p>
     </div>
 </div>

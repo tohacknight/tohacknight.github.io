@@ -31,7 +31,9 @@ abstract: Toolbox Coworking 22/03/2016 h. 18.30
     <div class="col-lg-12">
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
-        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
         <p><a href="http://axant.it" target="_blank"><img src="https://cdn.evbuc.com/eventlogos/30850503/rsz1rszschermata20160307alle190413.png" alt="axant"></a></p>
     </div>
 </div>

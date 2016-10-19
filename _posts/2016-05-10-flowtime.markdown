@@ -31,7 +31,9 @@ abstract: Toolbox Coworking 24/05/2016 h. 18.30
     <div class="col-lg-12">
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
-        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
         <p><a href="http://hub09.it" target="_blank"><img src="http://staging.hub09.it/wp-content/uploads/2015/01/hub09-dark1.png" alt="Hub09"></a></p>
     </div>
 </div>

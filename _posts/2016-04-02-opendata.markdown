@@ -31,7 +31,9 @@ abstract: Toolbox Coworking 26/04/2016 h. 18.30
     <div class="col-lg-12">
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
-        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
         <p><a href="http://synapta.it" target="_blank"><img src="http://menodizero.it/static/synapta-logo.png" alt="synapta"></a></p>
     </div>
 </div>

@@ -30,7 +30,9 @@ abstract: Toolbox Coworking 15/06/2016 h. 18.30
     <div class="col-lg-12">
         <p><br></p>
         <p>Evento organizzato in collaborazione con:</p>
-        <p><a href="http://toolboxoffice.it" target="_blank"><img src="http://www.toolboxoffice.it/img/logo.jpg" alt="Toolbox"></a></p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
         <p><a href="http://trampolineup.com" target="_blank"><img width="200px" src="http://i.imgur.com/7qftAxD.png" alt="Trampoline"></a></p>
     </div>
 </div>
