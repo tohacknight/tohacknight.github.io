@@ -9,7 +9,7 @@ abstract: Toolbox Coworking 30/03/2017 h. 18.30
 <div class="row">
     <div class="col-lg-12">
         <p>Tema di questa Hacknight è <a href="https://odoo.com">Odoo</a>, un software all-in-one per la gestione aziendale ed allo stesso tempo un framework avanzato di sviluppo.
-        Mostreremo le sue principali funzionalità vedremo come contribuire ad <a href="https://odoo-community.org">OCA</a>.</p>
+        Mostreremo le sue principali funzionalità e vedremo come contribuire ad <a href="https://odoo-community.org">OCA</a>.</p>
         <p>L'evento è gratuito ma richiede la <a target="_blank" href="https://www.eventbrite.com/e/biglietti-torino-hacknight-odoo-32985766315">registrazione</a>.</p>
         <p>Vi aspettiamo giovedì 30 marzo 2017 alle 18.30 presso Toolbox.</p>
     </div>
