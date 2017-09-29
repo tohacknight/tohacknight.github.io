@@ -10,8 +10,8 @@ abstract: Toolbox Coworking 19/10/2017 h. 18.30
     <div class="col-lg-12">
         <p>Dopo la pausa estiva torna hacknight e torna in compagnia del <a href="https://www.meetup.com/it-IT/T-UX-Meetup">Torino User Experience Meetup</a>. Per questa serata infatti proponiamo in collaborazione una <em>usability testing night</em> per progetti open source.</p>
         <p>Durante la serata vedrete come condurre test di usabilitá sia un ottimo modo per far si che un progetto risponda alle effettive esigenze dei propri utenti.</p>
-        <p>Dopo una breve introduzione vogliamo farvi vivere l'esperienza di utente in prima persona e raccogliere il vostro feedback.</p>
-        <p>Sarà possibile registrarsi all'evento da Ottobre.</p>
+        <p>Vogliamo farvi vivere l'esperienza di utente in prima persona e raccogliere il vostro feedback.</p>
+        <p>L'evento è gratuito ma occorre <a href="https://www.eventbrite.com/e/biglietti-torino-hacknight-ux-testing-38437880736">registrarsi</a>.</p>
         <p>Vi aspettiamo giovedì 19 ottobre 2017 alle 18.30 presso la FabCucina di Toolbox.</p>
     </div>
 </div>
@@ -23,7 +23,7 @@ abstract: Toolbox Coworking 19/10/2017 h. 18.30
         <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
 
         <h4>Cosa devo portare?</h4>
-        <p>Il tuo computer e voglia di fare.</p>
+        <p>Il tuo computer e voglia di fare. Al rinfresco ci pensa <a href="https://www.ibuildings.it" target="_blank">ibuildings</a>.</p>
     </div>
 </div>
 
