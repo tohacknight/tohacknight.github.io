@@ -3,7 +3,7 @@ layout: post
 date: 2018-01-31
 title: "Diciannovesima hacknight: Embedded con Buildroot"
 img: turin.jpg
-abstract: Toolbox Coworking 15/02/2017 h. 18.30
+abstract: Toolbox Coworking 15/02/2018 h. 18.30
 ---
 
 <div class="row">
@@ -12,7 +12,7 @@ abstract: Toolbox Coworking 15/02/2017 h. 18.30
 	<p>Faremo una panoramica degli elementi software di un sistema embedded con una introduzione ai sistemi di build.</p>
 	<p>Quindi tramite Buildroot vedremo la creazione degli elementi software legati ad un sistema embedded.</p>
         <p>L'evento è gratuito ma occorre <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-embedded-con-buildroot-42633951296">registrarsi</a>.</p>
-        <p>Vi aspettiamo giovedì 15 febbraio 2017 alle 18.30 presso la FabCucina di Toolbox.</p>
+        <p>Vi aspettiamo giovedì 15 febbraio 2018 alle 18.30 presso la FabCucina di Toolbox.</p>
     </div>
 </div>
 
