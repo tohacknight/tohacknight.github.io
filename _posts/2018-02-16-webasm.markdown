@@ -1,0 +1,38 @@
+---
+layout: post
+date: 2018-02-26
+title: "Ventesima hacknight: server o client side? Entrambi! Con webasm"
+img: turin.jpg
+abstract: Toolbox Coworking 29/03/2018 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+	<p>Spesso si tende ad usare Node nel backend in modo da spostare facilmente il carico computazionale da client-side a server-side e viceversa.</p>
+	<p>Javascript spesso non si presta per nulla a gestire operazioni particolarmente onerose in modo semplice o leggibile. Con l'avvento di webasm e` possibile usare linguaggi diversi sia server-side sia client-side.</p>
+	<p>Durante la serata mostreremo come scrivere applicazioni web usando due dei piu` nuovi e meno conosciuti linguaggi: Rust e Kotlin.</p>
+        <p>L'evento è gratuito ma occorre <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-server-o-client-side-entrambi-con-webasm-43548878869">registrarsi</a>.</p>
+        <p>Vi aspettiamo giovedì 29 marzo 2018 alle 18.30 presso la FabCucina di Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
+    </div>
+</div>
