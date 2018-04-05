@@ -12,7 +12,7 @@ abstract: Toolbox Coworking 17/04/2018 h. 18.30
         <p>Durante il workshop programmeremo una applicazione per mandare dati ambientali che infine andremo ad installare su una board.</p>
         <p>Requisiti per il workshop sono: git, docker e l'IDE Arduino.</p>
         <p>L'evento è gratuito ma <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-iot-open-source-con-kiotlog-44599079046" target="_blank" title="Registrazione eventbrite">occorre registrarsi</a>.</p>
-        <p>Vi aspettiamo <strong>giovedì 17 aprile 2018 alle 18.30</strong> presso la FabCucina di Toolbox, in Via Agostino da Montefeltro 2.</p>
+        <p>Vi aspettiamo <strong>martedì 17 aprile 2018 alle 18.30</strong> presso la FabCucina di Toolbox, in Via Agostino da Montefeltro 2.</p>
     </div>
 </div>
 
