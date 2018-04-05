@@ -1,0 +1,39 @@
+---
+layout: post
+date: 2018-04-05
+title: "Ventunesima hacknight: IoT Open Source con Kiotlog"
+img: turin.jpg
+abstract: Toolbox Coworking 17/04/2018 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>Vedremo cos'è <a href="https://github.com/kiotlog/kiotlog" target="_blank" title="Kiotlog website">Kiotlog</a>, una piattaforma per creare applicazioni IOT basate sul protocollo LPWAN.</p> 
+        <p>Durante il workshop programmeremo una applicazione per mandare dati ambientali che infine andremo ad installare su una board.</p>
+        <p>Requisiti per il workshop sono: git, docker e l'IDE Arduino.</p>
+        <p>L'evento è gratuito ma <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-iot-open-source-con-kiotlog-44599079046" target="_blank" title="Registrazione eventbrite">occorre registrarsi</a>.</p>
+        <p>Vi aspettiamo <strong>giovedì 17 aprile 2018 alle 18.30</strong> presso la FabCucina di Toolbox, in Via Agostino da Montefeltro 2.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        <p>
+        {% for partner in site.partners %}
+            <a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a>
+        {% endfor %}
+        <a href="http://trampolineup.com" target="_blank"><img width="200px" src="http://i.imgur.com/7qftAxD.png" alt="Trampoline"></a></p>
+    </div>
+</div>
