@@ -47,5 +47,5 @@ address:
 partners:
   - name: Toolbox
     url: http://toolboxoffice.it
-    img: http://www.toolboxoffice.it/wp-content/uploads/toolbox-coworking-logo-scritta-piccolo.png
+    img: /img/partners/toolbox.png
     bgcolor: fff
