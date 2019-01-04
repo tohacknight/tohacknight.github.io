@@ -1,0 +1,39 @@
+---
+layout: post
+date: 2019-01-04
+title: "Ventiseiesima hacknight: Reason"
+img: turin.jpg
+abstract: Toolbox Coworking 22/01/2019 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>
+            <a href="https://reasonml.github.io/" target="_blank" title="Reason sito ufficiale">Reason</a> è un linguaggio di programmazione che eredita la sintassi e la toolchain di OCaml e la integra nell'ecosistema Javascript. Massimiliano Bertinetti ci introdurrà le peculiarità del linguaggio quindi passeremo a tradurre la documentazione in italiano attraverso <a href="https://crowdin.com/project/reason/it" target="_blank" title="Documentazione reason">https://crowdin.com/project/reason/it</a>.
+        </p>
+        <p>
+            L'evento è gratuito ma occorre <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-reason-54173519455" target="_blank" title="Registrati all'evento tramite eventbrite">registrarsi</a>.
+        </p>
+        <p>Vi aspettiamo <strong>martedì 22 gennaio</strong> presso la FabCucina di Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è Torino hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
+    </div>
+</div>
