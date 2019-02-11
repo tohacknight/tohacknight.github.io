@@ -1,0 +1,50 @@
+---
+layout: post
+date: 2019-02-10
+title: "Ventisettesima hacknight: Elixir"
+img: turin.jpg
+abstract: Toolbox Coworking 26/02/2019 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+        <p>
+            Elixir è un linguaggio funzionale con una sintassi simile a Ruby che gira sopra alla macchina virtuale BEAM di Erlang. Negli ultimi due anni diversi team a Torino hanno partecipato a Spawnfest, una sfida nella creazione di applicazioni per BEAM con progetti scritti in Elixir tra cui:
+        </p>
+        <ul>
+            <li>
+                il crawler <a href="https://github.com/welaika/sputnik" title="Progetto Sputnik su github" target="_blank">sputnik</a>
+            </li>
+            <li>
+                il pixelatatore di immagini <a href="https://github.com/spawnfest/vostok" title="Progetto Vostok su github" target="_blank">vostok</a>
+            </li>
+            <li>
+                statistiche su repo git con <a href="https://github.com/spawnfest/fuchsia-team" title="Progetto elig su Github" target="_blank">elig</a>
+            </li>
+        </ul>
+        <p>
+            Il piano della serata è di prendere confidenza con Elixir contribuendo ad uno di questi progetti.
+        </p>
+        <p>Vi aspettiamo <strong>martedì 26 febbraio</strong> presso Toolbox.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è Torino hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
+    </div>
+</div>
