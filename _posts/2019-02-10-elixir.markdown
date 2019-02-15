@@ -25,6 +25,9 @@ abstract: Toolbox Coworking 26/02/2019 h. 18.30
         <p>
             Il piano della serata è di prendere confidenza con Elixir contribuendo ad uno di questi progetti.
         </p>
+        <p>
+            L'evento è gratuito ma occorre <a href="https://www.eventbrite.it/e/biglietti-torino-hacknight-elixir-55567878019" target="_blank" title="Registrati all'evento tramite eventbrite">registrarsi</a>.
+        </p>
         <p>Vi aspettiamo <strong>martedì 26 febbraio</strong> presso Toolbox.</p>
     </div>
 </div>
