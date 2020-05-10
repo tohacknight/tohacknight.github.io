@@ -1,0 +1,38 @@
+---
+layout: post
+date: 2020-05-10
+title: "35esima hacknight: COVID-19 #2"
+img: turin.jpg
+abstract: Online 13/05/2020 h. 18.30
+---
+
+<div class="row">
+    <div class="col-lg-12">
+    <p>
+	Replichiamo la serata di aprile sul tema Covid-19.
+        Tutti i dettagli della serata sono nel <a href="https://github.com/tohacknight/covid/">repository di onboarding</a>.
+    </p>
+        <p>Vi aspettiamo <strong>mercoledì 13 maggio</strong> nella chat che trovate nel repository qua sopra.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <h4>Cos'è hacknight?</h4>
+        <p>Lo scopo di hacknight è quello di sensibilizzare le comunità di sviluppatori allo sviluppo di software libero.</p>
+        <p>Ad una serata hacknight i partecipanti sono invitati a contribuire attivamente ad un progetto open source aiutati da contributori dello stesso.</p>
+
+        <h4>Cosa devo portare?</h4>
+        <p>Il tuo computer e voglia di fare.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <p><br></p>
+        <p>Evento organizzato in collaborazione con:</p>
+        {% for partner in site.partners %}
+            <p><a href="{{ partner.url }}" target="_blank">{% if partner.img %}<img src="{{ partner.img }}" alt="{{ partner.name }}">{% else %}{{ partner.name }}{% endif %}</a></p>
+        {% endfor %}
+    </div>
+</div>
