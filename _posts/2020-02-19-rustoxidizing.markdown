@@ -3,7 +3,7 @@ layout: post
 date: 2020-02-19
 title: "Trentatreesima hacknight: Ossidiamo con Rust"
 img: turin.jpg
-abstract: Toolbox Coworking 12/03/2020 h. 18.30
+abstract: Online 12/03/2020 h. 18.30
 ---
 
 <div class="row">
@@ -12,7 +12,7 @@ abstract: Toolbox Coworking 12/03/2020 h. 18.30
 	A marzo organizziamo una serata in collaborazione con il <a href="https://www.meetup.com/it-IT/Mozilla-Torino/" target="_blank">meetup Rust Torino</a> su come trasformare progetti C in Rust, in gergo ossidare. Durante la serata vedremo che strumenti possiamo usare, come farlo senza farsi male e qualche progetto open source per sperimentare con mano.
     </p>
         <p>L'evento è gratuito ma occorre <a href="https://https://tohacknight-rustoxidize.eventbrite.it/" target="_blank" title="Registrati all'evento tramite eventbrite">registrarsi</a>.</p>
-        <p>Vi aspettiamo <strong>giovedì 12 marzo</strong> presso Toolbox.</p>
+        <p>Vi aspettiamo <strong>giovedì 12 marzo</strong>.</p>
     </div>
 </div>
 

@@ -3,7 +3,7 @@ layout: post
 date: 2020-01-27
 title: "Trentaduesima hacknight: Open Hospital"
 img: turin.jpg
-abstract: Toolbox Coworking 26/02/2020 h. 18.30
+abstract: Online 26/02/2020 h. 18.30
 ---
 
 <div class="row">
@@ -12,7 +12,7 @@ abstract: Toolbox Coworking 26/02/2020 h. 18.30
 <a href="https://www.open-hospital.org/" target="_blank">Open Hospital</a> è un software <a href="https://github.com/informatici" target="_blank">open source</a> per la gestione di dati sanitari sviluppato da Informatici senza Frontiere. E` sviluppato per aiutare ospedali e ONG in paesi in via di sviluppo. Viene usato per gestire la registrazione dei pazienti e delle visite, per registrare nascite e vaccinazioni e per gestire i flussi di materiali e medicinali. Consiste in un backend scritto in Java ed un frontend scritto in React.
     </p>
         <p>L'evento è gratuito ma occorre <a href="https://tohacknight-openhospital.eventbrite.it" target="_blank" title="Registrati all'evento tramite eventbrite">registrarsi</a>.</p>
-        <p>Vi aspettiamo <strong>mercoledì 26 febbraio</strong> presso Toolbox.</p>
+        <p>Vi aspettiamo <strong>mercoledì 26 febbraio</strong>.</p>
     </div>
 </div>
 
