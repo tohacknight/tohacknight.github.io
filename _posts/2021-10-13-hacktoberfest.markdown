@@ -13,7 +13,7 @@ abstract: Toolbox Coworking 13/10/2021 h. 18.30
         è un mese dedicato al software open source.
     </p>
     <p>
-        Nessuna contribuzioni è troppo piccola, bug fix e aggiornamento alla documentazione
+        Nessuna contribuzione è troppo piccola, bug fix e aggiornamenti alla documentazione
         sono contribuzioni valide.
         Durante la serata i partecipanti potranno contribuire attivamente ad un
 	progetto di loro scelta.
